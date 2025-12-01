@@ -293,7 +293,3 @@ For issues or questions:
 4. Check that all dependencies are installed with `pip list`
 
 ---
-
-**Created**: 2025  
-**Last Updated**: December 1, 2025  
-**Status**: Active
