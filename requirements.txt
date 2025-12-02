@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+jinja2
+langchain
+langchain-google-genai
+langgraph>=0.2.0
+langgraph-checkpoint>=0.2.0
+python-dotenv
